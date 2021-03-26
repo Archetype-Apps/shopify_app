@@ -1,3 +1,7 @@
+16.2.0
+------
+* Port over fix for failing script tags and webhook. Use offline and online tokens [#2](https://github.com/Archetype-Apps/shopify_app/pull/2)
+
 16.1.0
 ------
 * Use Session Token auth strategy by default for new embedded apps [#1111](https://github.com/Shopify/shopify_app/pull/1111)
